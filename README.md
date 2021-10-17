@@ -1,2 +1,7 @@
-# Python_And_Django_To_Do_List
-Python And Django To Do List
+# Python And Django To Do List
+
+### Introduction 
+
+- [ ] Introduction And Requirements To Learn
+- [ ] What Is Django Framework
+- [ ] Setup Django And Environment
